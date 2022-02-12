@@ -15,4 +15,4 @@ Cổ sử Việt Nam
 <li>Việt Nam Sử Lược - Trần Trọng Kim
 <li>Việt Sử Tiêu Án - Ngô Thời Sỹ
 <li>Việt Nam Nam Phật Giáo Sử Ca - Thích Nhật Tân
-<li>Việt Nam Thi Sử Hùng Ca (thơ) Thích Nhật Tâ
+<li>Việt Nam Thi Sử Hùng Ca (thơ) Thích Nhật Tân
