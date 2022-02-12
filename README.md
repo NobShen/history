@@ -14,5 +14,6 @@ Cổ sử Việt Nam
 <li>Việt Điện U Linh Tập - Lý Tế Xuyên
 <li>Việt Nam Sử Lược - Trần Trọng Kim
 <li>Việt Sử Tiêu Án - Ngô Thời Sỹ
-<li>Việt Nam Nam Phật Giáo Sử Ca - Thích Nhật Tân
-<li>Việt Nam Thi Sử Hùng Ca (thơ) Thích Nhật Tân
+<li><a href="https://quangduc.com/a59288/viet-nam-phat-giao-su-ca">Việt Nam Nam Phật Giáo Sử Ca - Thích Nhật Tân</a>
+<li><a href="https://quangduc.com/a4679/viet-nam-thi-su-hung-ca">Việt Nam Thi Sử Hùng Ca (thơ) Thích Nhật Tân</a>
+<li>Hoàng Lê Nhất Thống Chí - Ngô Gia Văn Phái
