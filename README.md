@@ -1,8 +1,8 @@
 # history
 Cổ sử Việt Nam
 
-<h1>An Nam Chí Lược - Lê Tắc
-<h1>Đại Việt Sử Ký Toàn Thư - Lê Văn Hưu, Phan Chu Tiên, Ngô Sĩ Liên
+<li>An Nam Chí Lược - Lê Tắc
+<li>Đại Việt Sử Ký Toàn Thư - Lê Văn Hưu, Phan Chu Tiên, Ngô Sĩ Liên
 Đại Việt Thông Sử  - Lê Quý Đôn
 Đại Việt Sử Lược_Khuyết Danh - Nguyễn Khắc Thuần
 Hoàng Lê Nhất Thống Chí - Ngô Gia Văn Phái
