@@ -12,8 +12,9 @@ Cổ sử Việt Nam
 <li><a href="https://quangduc.com/a27856/thu-viet-lai-co-su-viet-nam">Thử Viết Lại Cổ Sử Việt Nam - Trương Thái Du</a>
 <li><a href="https://quangduc.com/a4838/nghien-cuu-ve-thien-uyen-tap-anh">Thiền Uyển Tập Anh - Lê Mạnh Thát</a>
 <li><a href="https://quangduc.com/a4657/viet-dien-u-linh-tap-pdf">Việt Điện U Linh Tập - Lý Tế Xuyên</a>
-<li><a href="https://quangduc.com/a32873/viet-nam-su-luoc-pdf">-Việt Nam Sử Lược - Trần Trọng Kim</a>
+<li><a href="https://quangduc.com/a32873/viet-nam-su-luoc-pdf">Việt Nam Sử Lược - Trần Trọng Kim</a>
 <li><a href="https://quangduc.com/a4640/viet-su-tieu-an-pdf">Việt Sử Tiêu Án - Ngô Thời Sỹ</a>
 <li><a href="https://quangduc.com/a59288/viet-nam-phat-giao-su-ca">Việt Nam Nam Phật Giáo Sử Ca - Thích Nhật Tân</a>
 <li><a href="https://quangduc.com/a4679/viet-nam-thi-su-hung-ca">Việt Nam Thi Sử Hùng Ca (thơ) Thích Nhật Tân</a>
 <li><a href="https://quangduc.com/a4675/hoang-le-nhat-thong-chi-pdf">Hoàng Lê Nhất Thống Chí - Ngô Gia Văn Phái</a>
+<li>Việt Sử Toàn Thư
