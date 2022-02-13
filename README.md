@@ -1,6 +1,6 @@
 # history
 Cổ sử Việt Nam
-# <li><a href="url">text</a>
+# <li><a href="url"></a>
 <li><a href="https://quangduc.com/p4634a4705/an-nam-chi-luoc-pdf">An Nam Chí Lược - Lê Tắc</a>
 <li><a href="https://quangduc.com/a4696/dai-viet-su-ky-toan-thu-pdfĐại Việt Sử Ký Toàn Thư - Lê Văn Hưu, Phan Chu Tiên, Ngô Sĩ Liên</a>
 <li><a href="https://quangduc.com/a4683/dai-viet-thong-su-pdf">Đại Việt Thông Sử  - Lê Quý Đôn</a>
