@@ -17,4 +17,4 @@ Cổ sử Việt Nam
 <li><a href="https://quangduc.com/a59288/viet-nam-phat-giao-su-ca">Việt Nam Nam Phật Giáo Sử Ca - Thích Nhật Tân</a>
 <li><a href="https://quangduc.com/a4679/viet-nam-thi-su-hung-ca">Việt Nam Thi Sử Hùng Ca (thơ) Thích Nhật Tân</a>
 <li><a href="https://quangduc.com/a4675/hoang-le-nhat-thong-chi-pdf">Hoàng Lê Nhất Thống Chí - Ngô Gia Văn Phái</a>
-<li>Việt Sử Toàn Thư
+<li><a href="https://vietsu.org/viet-su-toan-thu/">Việt Sử Toàn Thư</a>
